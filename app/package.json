@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.16.0",
+    "winston": "^3.17.0"
+  },
+  "name": "sit737-2025-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarth9702/sit737-2025-prac4p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarth9702/sit737-2025-prac4p/issues"
+  },
+  "homepage": "https://github.com/samarth9702/sit737-2025-prac4p#readme",
+  "keywords": []
+}
